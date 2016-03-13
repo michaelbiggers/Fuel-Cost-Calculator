@@ -1,0 +1,20 @@
+* {
+    font-size:1.1em;
+}
+.jumbotron {
+    background:#00BCD4;
+    color:#E0F7FA;
+}
+.jumbotron h1 {
+    font-family:'Crete Round', sans-serif;
+}
+.my-btn {
+    background:#00BCD4;
+    color:#E0F7FA;
+    border-radius:0;
+    font-size:1.1em;
+}
+.my-btn:hover {
+    background:#00ACC1;
+    color:#E0F7FA;
+}
